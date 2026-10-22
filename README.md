@@ -12,7 +12,6 @@ Sistema web para administrar la operación y reservación de laboratorios acadé
 - [Stack tecnológico](#%EF%B8%8F-stack-tecnol%C3%B3gico)
 - [Roles](#-roles)
 - [Capturas de pantalla](#-capturas-de-pantalla)
-- [Validación](#-validaci%C3%B3n)
 
 ---
 
@@ -51,8 +50,16 @@ Sistema web para administrar la operación y reservación de laboratorios acadé
 |🧑‍🔬 **Laboratorista**|Supervisa préstamos y registra incidencias|
 |🗂️ **Coordinación**|Administra usuarios, laboratorios, reservaciones y estadísticas|
 
+
 ---
 
+## 🎥 Demostración del Sistema
+
+Haz clic en la imagen para ver el recorrido completo y la demostración del funcionamiento del sistema en YouTube:
+
+[![Ver Demostración en YouTube](https://img.shields.io/badge/▶%20Ver%20Video%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/mrh0vNI0ZWw)
+
+---
 ## 📸 Capturas de pantalla
 
 <details> <summary><strong>General</strong></summary> <br>
